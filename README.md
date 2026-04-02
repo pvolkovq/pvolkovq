@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 **В данный момент:** 
 - В поисках работы на должность **Middle Backend Developer** 🔎
-- Занимаюсь разработкой игры в духе Papers, Please 👮
 
 
 **Увлечения:**
