@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 **В данный момент:** 
 - Ищу работу 🔎
-- Занимаюсь разработкой игры в духе Papers Please
+- Занимаюсь разработкой игры в духе Papers, Please
 
 
 **Увлечения:**
