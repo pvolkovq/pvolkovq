@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 **В данный момент:** 
-- В поисках работы на должность **Middle Backend Developer** 🔎
+- В поисках работы 🔎
 
 
 **Увлечения:**
